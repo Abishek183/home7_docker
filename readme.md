@@ -1,3 +1,5 @@
+# Output screenshot is repo with docker_output.png
+
 # Docker and Python
 
 For this assignment you will be combining Docker with Python to create a program that generates a QR code PNG file that
